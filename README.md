@@ -30,3 +30,15 @@ This is a project created back in 2010 when editing TLK files from *Mass Effect 
 So the only thing that was a problem for translators was that the TLK files containing text lines from the game, were of unknown format. Fortunatelly, it was only a custom binary file format with [Huffman coding](http://en.wikipedia.org/wiki/Huffman_coding) for text data. Simple TLK decoding demo was released by DerPlaya from *BioWare Social Network*, which was a great starting point. After more research, this tool, with full TLK format support, was made available.
 
 Soon after, the first DLC was translated to Polish and many other languages. Many other mods use this tool to change in-game text strings. There is even a full Mass Effect 2 translation to Turkish, made with this tool. And probably many more projects based on this one, that I'm not aware of, since it's been open-source from the beginning.
+
+## Stats
+
+As the project has moved from BioWare Social Network, here are some stats gathered there (updated 7.1.2015).
+
+| **Project creation date** | 18.09.2010  |
+| :-------------: | :-------------: |
+| **Project page visits**      | 18485 |
+
+| **Downloads count**      | 7087 | (version 1.0.4, published 11.11.2010)  |
+| :-------------: | :-------------: | :-------------: |
+| **Downloads count (source)**      | 308 | (version 1.0.3, published 21.10.2010)  | 
