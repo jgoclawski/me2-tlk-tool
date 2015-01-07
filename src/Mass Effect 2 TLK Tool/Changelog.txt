@@ -1,0 +1,27 @@
+﻿Changelog for Mass Effect 2 TLK Tool
+
+Note: XML format does not change since version 1.0 (unless 
+explicitly stated otherwise in version description).
+It means that you can use your old XML files with any newer 
+version of the program. Only the resulting TLK file will 
+change.
+
+Version 1.0.4 (11.11.2010)
+* NEW:   Adds (experimental) support for Xbox360 TLK files.
+
+Version 1.0.3 (21.10.2010)
+* BUGFIX: Fixes corrupted line display for female Shepards.
+* BUGFIX: Minor general bigfixes.
+* NEW:    Adds possibility to edit separate line versions
+          for male Shepards and female Shepards.
+
+Version 1.0.2 (11.10.2010)
+* BUGFIX: Fixed a bug, where previous version could hang 
+          sometimes.
+
+Version 1.0.1 (10.10.2010)
+* BUGFIX: Every ENTER (newline) is now displayed once, not 
+          twice in game.
+
+Version 1.0 (06.10.2010)
+* Initial release.
